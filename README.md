@@ -9,8 +9,13 @@ The School District Analysis below is a reorganization of data based on the assu
  - New District Summary (Note reduction in total student count)
  ![District_Summary_New](https://user-images.githubusercontent.com/90797036/137644763-5decdf33-1b07-4873-819d-4bd06805d183.png)
 
-- How is the school summary affected?
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- ### School Summary
+ - Original School Summary
+ ![School_Summary](https://user-images.githubusercontent.com/90797036/137645696-0246a8ef-eaaf-406b-b601-f0f4c792a760.png)
+ - New School Summary (Note the increase in % passing for math, reading, and overall for Thomas High with the ninth grade data removed.)
+ ![School_Summary_New](https://user-images.githubusercontent.com/90797036/137645719-d890c60e-7719-45b0-8e67-0889cdb9c66c.png)
+
+ - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
