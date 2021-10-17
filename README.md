@@ -11,20 +11,29 @@ The School District Analysis below is a reorganization of data based on the assu
 
 - ### School Summary
  1) Original School Summary
-  ![School_Summary_Original](https://user-images.githubusercontent.com/90797036/137647333-2c033608-60f1-4c34-83e1-37af6e0add05.png)
+ ![School_Summary_Original](https://user-images.githubusercontent.com/90797036/137647682-aa7c453e-a577-445b-a6d2-e3b0c80db2dd.png)
  2) New School Summary, calculated with student count less ninth grader count  (Note the miniscule change in % passing.)
-  ![School_Summary_New](https://user-images.githubusercontent.com/90797036/137645719-d890c60e-7719-45b0-8e67-0889cdb9c66c.png)
+ ![School_Summary_New](https://user-images.githubusercontent.com/90797036/137645719-d890c60e-7719-45b0-8e67-0889cdb9c66c.png)
 
  - Top Performing Schools
  1) Original Ranking
- ![High_Performing_School](https://user-images.githubusercontent.com/90797036/137647393-5ca224fe-50ac-43ba-a81b-d564a4f71ecd.png)
+ ![High_Performing_School](https://user-images.githubusercontent.com/90797036/137647726-5fc74b2e-1b49-48ac-afe9-7033ac3870ea.png)
  2) Ranking after night grade data from Thomas High School is removed  (Note that Thomas High School remains the 2nd highest ranking school)
-  ![High_Performing_School_New](https://user-images.githubusercontent.com/90797036/137647429-4c2b2940-4008-4c19-bba4-059159b078cd.png)
+ ![High_Performing_School_New](https://user-images.githubusercontent.com/90797036/137647429-4c2b2940-4008-4c19-bba4-059159b078cd.png)
 
-- How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
+ - Math scores by grade:
+   - ![Math_Scores_By_Grade](https://user-images.githubusercontent.com/90797036/137648042-1d4b2ade-0e30-4aac-a882-264de16cefe3.png)
+ - Reading scores by grade:
+   - ![Reading_Scores_By_Grade](https://user-images.githubusercontent.com/90797036/137648045-6da7ac01-0126-4220-a5d4-ae91107c36b0.png)
+   - Replacing the ninth-grade scores for the math and reading scores by grade simply replaced the previous value for 9th Grade at Thomas High School with NaN, no other affect.
+   - ![Math_Scores_By_Grade_NaN](https://user-images.githubusercontent.com/90797036/137648240-15777c3a-8523-4dc7-989a-ae268ae358ee.png)
+   - ![Reading_Scores_By_Grade_NaN](https://user-images.githubusercontent.com/90797036/137648241-1a00e619-95fa-4562-9b0c-668f3d92d1d4.png)
+
 - Scores by school spending
+   - 
 - Scores by school size
+   - 
 - Scores by school type
+   - 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+By updating the school district analysis reading and math scores, by excluding grades for ninth grade at Thomas High School, there was no significant change in school ranking, and might be a indicator that the ninth graders did not alter their grades, but rather, were in line with the scores of the other grades at the same school.
