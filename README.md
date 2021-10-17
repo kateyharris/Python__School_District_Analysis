@@ -37,4 +37,4 @@ The School District Analysis below is a reorganization of data based on the assu
    - ![Score_by_School_Type](https://user-images.githubusercontent.com/90797036/137648481-bd0ab9ee-ba50-4d81-9421-651fd58d264b.png)
 
 ## Summary
-By updating the school district analysis reading and math scores, by excluding grades for ninth grade at Thomas High School, there was no significant change in school ranking, and might be a indicator that the ninth graders did not alter their grades, but rather, were in line with the scores of the other grades at the same school.
+By updating the school district analysis reading and math scores, by excluding grades for ninth grade at Thomas High School, there was no significant change in school ranking, and might be a indicator that the ninth graders did not alter their grades, but rather, were in line with the scores of the other grades at the same school. Thomas High School is a smaller medium sized charter school, which based off the above results aligns ranking appropriately.
