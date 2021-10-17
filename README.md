@@ -26,14 +26,15 @@ The School District Analysis below is a reorganization of data based on the assu
  - Reading scores by grade:
    - ![Reading_Scores_By_Grade](https://user-images.githubusercontent.com/90797036/137648045-6da7ac01-0126-4220-a5d4-ae91107c36b0.png)
    - Replacing the ninth-grade scores for the math and reading scores by grade simply replaced the previous value for 9th Grade at Thomas High School with NaN, no other affect.
-   - ![Math_Scores_By_Grade_NaN](https://user-images.githubusercontent.com/90797036/137648240-15777c3a-8523-4dc7-989a-ae268ae358ee.png)
+   - ![Math_Scores_By_Grade_NaN](https://user-images.githubusercontent.com/90797036/137648277-f0b45e89-6c44-4f26-87b9-4e45e10abd3f.png)
    - ![Reading_Scores_By_Grade_NaN](https://user-images.githubusercontent.com/90797036/137648241-1a00e619-95fa-4562-9b0c-668f3d92d1d4.png)
 
 - Scores by school spending
-   - 
+   - ![Score_by_School_Spending](https://user-images.githubusercontent.com/90797036/137648407-ed9d7f43-6ad6-40d5-8128-5c03dc1d6579.png)
 - Scores by school size
-   - 
+   - ![Score_by_School_Size](https://user-images.githubusercontent.com/90797036/137648438-d5bc8f1b-d65e-4664-a11c-f4b8fed4e06b.png)
 - Scores by school type
-   - 
+   - ![Score_by_School_Type](https://user-images.githubusercontent.com/90797036/137648481-bd0ab9ee-ba50-4d81-9421-651fd58d264b.png)
+
 ## Summary
 By updating the school district analysis reading and math scores, by excluding grades for ninth grade at Thomas High School, there was no significant change in school ranking, and might be a indicator that the ninth graders did not alter their grades, but rather, were in line with the scores of the other grades at the same school.
